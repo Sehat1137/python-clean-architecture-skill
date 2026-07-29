@@ -1,0 +1,7 @@
+interface:
+  display_name: "Python Backend Architecture"
+  short_description: "Clean Architecture guidance for Python backend services."
+  default_prompt: "Use $python-architecture to plan or implement Python backend architecture changes."
+
+policy:
+  allow_implicit_invocation: true
